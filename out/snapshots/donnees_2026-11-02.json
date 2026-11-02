@@ -130,18 +130,21 @@
    {
     "label": "Nouveaux clients",
     "value": 8,
-    "target": 10
+    "target": 10,
+    "prev": 7
    },
    {
     "label": "Nouveaux events",
     "value": 27,
-    "target": 14
+    "target": 14,
+    "prev": 25
    },
    {
     "label": "CA devis",
     "value": 111,
     "target": 164,
-    "unit": "K€"
+    "unit": "K€",
+    "prev": 104
    }
   ],
   "primes": "15 %",
@@ -154,6 +157,17 @@
    "departs_moins_3j": 9,
    "departs_3_14j": 11,
    "departs_14j_plus": 15
+  },
+  "primes_prev": 15,
+  "devis_prev": {
+   "envoyes": 6,
+   "relances": 14,
+   "arrets_loc": 12,
+   "retard_relance": 0,
+   "retard_validation": 12,
+   "departs_moins_3j": 7,
+   "departs_3_14j": 8,
+   "departs_14j_plus": 23
   }
  }
 }
