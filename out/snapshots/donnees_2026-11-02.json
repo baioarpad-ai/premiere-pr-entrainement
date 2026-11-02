@@ -1,0 +1,159 @@
+{
+ "date_longue": "2 novembre 2026",
+ "date_courte": "02/11/2026",
+ "participants": "Arpad Baio, Jessy Coudert, Alexandre Metayer, Enzo Berrafato",
+ "absents": "Olivier Boivin",
+ "debrief": [
+  "<b>Activité</b> : semaine précédente très calme, aucun e-mail reçu entre vendredi et le brief, hors une demande web à rappeler.",
+  "<b>Incident FFA</b> : erreurs du prestataire de signalisation (paiement anticipé exigé, transporteur à 800 € pour 700 €). Grâce aux écrits de Jessy, la cliente a été livrée samedi matin.",
+  "<b>Facturation des agences</b> : aucune facture de l'agence Signa un mois après la récupération du matériel. Décision : ultimatum cette semaine, sinon KSE se retire.",
+  "<b>BAPS</b> : matériel manquant (souffleurs, tour d'éclairage), environ 3 400 € ; l'agence refuse de facturer sans dépôt de plainte.",
+  "<b>Jeux Olympiques</b> : présentation demain matin aux directeurs de zone et régionaux (engins et matériel de montagne)."
+ ],
+ "dossiers": [
+  [
+   "Tribune XL Nantes (22 nov.)",
+   "Rappel envoyé à Michael ; vérification du volume et du contrôle qualité des chariots à roues blanches, qu'il s'est engagé à prendre en charge."
+  ],
+  [
+   "BAPS / agence Signa",
+   "Alexandre signifie à l'agence de facturer cette semaine ou de reprendre le dossier ; ultimatum sur les factures manquantes, sinon retrait de KSE."
+  ],
+  [
+   "Cadre Noir de Saumur (15 nov.)",
+   "Confirmation à envoyer à Roissy : transport, livraison, accessoires (nacelle)."
+  ],
+  [
+   "Tours / Lyon",
+   "Devis de décembre transmis. Si Tours bloque, relais par Lyon. Kickoff zone Centre la semaine prochaine."
+  ],
+  [
+   "Paris Photo",
+   "Dossier confirmé comme calé."
+  ],
+  [
+   "Urban Art Agency",
+   "Accord tarifaire actif sur Kill Pro depuis le 19 octobre ; simulation à faire pour vérifier les prix."
+  ],
+  [
+   "Fête de l'Huma",
+   "4 à 5 factures à mettre à jour pour clôturer le dossier."
+  ],
+  [
+   "GL Events",
+   "Réunion le 10 nov. pour présenter KSE ; business review à Lille le 16 nov. avec Olivier Cost (achats)."
+  ]
+ ],
+ "personnes": {
+  "AB": "Arpad Baio",
+  "JC": "Jessy Coudert",
+  "AM": "Alexandre Metayer",
+  "EB": "Enzo Berrafato"
+ },
+ "plan": {
+  "largeurs": [
+   0.22,
+   0.22,
+   0.56
+  ],
+  "colonnes": [
+   {
+    "name": "Cette semaine",
+    "highlight": false,
+    "cards": [
+     {
+      "text": "Envoyer l'ultimatum aux agences (factures, BAPS)",
+      "owners": [
+       "AM"
+      ]
+     }
+    ]
+   },
+   {
+    "name": "Semaine prochaine",
+    "highlight": false,
+    "cards": [
+     {
+      "text": "Organiser le Kickoff zone Centre (Tours)",
+      "owners": [
+       "AB"
+      ]
+     }
+    ]
+   },
+   {
+    "name": "À planifier",
+    "highlight": false,
+    "cards": [
+     {
+      "text": "Appeler Michael : tribune XL de Nantes",
+      "owners": [
+       "JC"
+      ]
+     },
+     {
+      "text": "Transférer à Alexandre le mail sur le matériel manquant",
+      "owners": [
+       "JC"
+      ]
+     },
+     {
+      "text": "Confirmer le transport du Cadre Noir à Roissy",
+      "owners": [
+       "JC"
+      ]
+     },
+     {
+      "text": "Urban Art : simuler une nacelle 12 m pour vérifier les tarifs",
+      "owners": [
+       "EB"
+      ]
+     },
+     {
+      "text": "Mettre à jour les factures de la Fête de l'Huma",
+      "owners": [
+       "AB",
+       "JC",
+       "AM",
+       "EB"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "kpi": {
+  "mois": "octobre 2026",
+  "mois_court": "octobre",
+  "date_lecture": "02/11/2026",
+  "objectifs": [
+   {
+    "label": "Nouveaux clients",
+    "value": 8,
+    "target": 10
+   },
+   {
+    "label": "Nouveaux events",
+    "value": 27,
+    "target": 14
+   },
+   {
+    "label": "CA devis",
+    "value": 111,
+    "target": 164,
+    "unit": "K€"
+   }
+  ],
+  "primes": "15 %",
+  "devis": {
+   "envoyes": 12,
+   "relances": 7,
+   "arrets_loc": 8,
+   "retard_relance": 12,
+   "retard_validation": 7,
+   "departs_moins_3j": 9,
+   "departs_3_14j": 11,
+   "departs_14j_plus": 15
+  }
+ }
+}
